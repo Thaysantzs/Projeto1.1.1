@@ -1,0 +1,472 @@
+/*-- INICIO CSS3 PARA TODOS OS DISPOSITIVOS --*/
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+/*-- INICIO CSS3 PARA À PRIMEIRA VERSÃO --*/
+
+@media only screen and (max-width: 580px){
+    header{
+        display: block;
+        height: 40px;
+    }
+
+    header li span{
+        display: none;
+    }
+
+    .noticias p{
+        font-size: 20px;
+    }
+
+    .lista li p{
+        display: none;
+    }
+
+    .noticias{
+        margin-bottom: 20px;
+    }
+
+    .listas p{
+        display: none;
+    }
+
+    aside{
+        display: block;
+        text-align: center;
+    }
+
+    aside div{
+        width: 360px;
+        margin: 0 auto;
+    }
+
+    .navgation{
+        display: none;
+    }
+
+    .img-principal-1{
+        display: none;
+    }
+
+    .img-principal-2{
+        display: none;
+    }
+
+    .publicacoes{
+        width: 480px;
+        justify-content: center;
+    }
+
+    .img-principal-2{
+        width: 470px;
+    }
+
+    .publicacoes-principais h3{
+        width: 475px;
+        font-size: 25px;
+    }
+
+    figure img{
+        width: 480px;
+
+    }
+
+    .publicacoes-principais h6{
+        width: 470px;
+    }
+
+    .publicacoes-complementares{
+        display: none;
+    }
+    .mais-popular{
+        width: 480px;
+    }
+
+    .apoio-img{
+        display: none;
+    }
+
+    .apoio-text{
+        margin-left: 10px;
+    }
+
+    footer{
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .news-letter{
+        display: block;
+        width: 350px;
+        height: 250px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .news-letter p{
+        width: 370px;
+    }
+
+    .inscreva{
+        margin-top: 10px;
+        text-align: center;
+    }
+}
+
+/*-- FIM CSS3 PARA À PRIMEIRA VERSÃO--*/
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+/*-- INICIO CSS3 PARA À SEGUNDA VERSÃO --*/
+@media only screen and (min-width: 581px) and (max-width: 640px) {
+    header{
+        display: block;
+        height: 40px;
+    }
+
+    header li span{
+        display: none;
+    }
+
+    .noticias p{
+        font-size: 20px;
+    }
+
+    .lista li p{
+        display: none;
+    }
+
+    .noticias{
+        margin-bottom: 20px;
+    }
+
+    .listas p{
+        display: none;
+    }
+
+    aside{
+        display: block;
+        text-align: center;
+    }
+
+    aside div{
+        width: 360px;
+        margin: 0 auto;
+    }
+
+    .navgation{
+        display: none;
+    }
+
+    .img-principal-1{
+        display: none;
+    }
+
+    .img-principal-2{
+        display: none;
+    }
+
+    .publicacoes{
+        width: 480px;
+        justify-content: center;
+    }
+
+    .img-principal-2{
+        width: 470px;
+    }
+
+    .publicacoes-principais h3{
+        width: 475px;
+        font-size: 25px;
+    }
+
+    figure img{
+        width: 480px;
+
+    }
+
+    .publicacoes-principais h6{
+        width: 470px;
+    }
+
+    .publicacoes-complementares{
+        display: none;
+    }
+    .mais-popular{
+        width: 480px;
+    }
+
+    .apoio-img{
+        display: none;
+    }
+
+    .apoio-text{
+        margin-left: 10px;
+    }
+
+    footer{
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .news-letter{
+        display: block;
+        width: 350px;
+        height: 250px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .news-letter p{
+        width: 370px;
+    }
+
+    .inscreva{
+        margin-top: 10px;
+        text-align: center;
+    }
+    
+}
+/*-- FIM CSS3 PARA À SEGUNDA VERSÃO --*/
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+/*-- INICIO CSS3 PARA À TERCEIRA VERSÃO --*/
+@media only screen and (min-width: 641px) and (max-width: 900px) {
+
+    header{
+        display: block;
+        height: 40px;
+    }
+
+    header li span{
+        display: none;
+    }
+
+    .noticias p{
+        font-size: 20px;
+    }
+
+    .lista li p{
+        display: none;
+    }
+
+    .noticias{
+        margin-bottom: 20px;
+    }
+
+    .listas p{
+        display: none;
+    }
+
+    aside{
+        display: block;
+        text-align: center;
+    }
+
+    aside div{
+        width: 360px;
+        margin: 0 auto;
+    }
+
+    .navgation{
+        display: none;
+    }
+
+    .img-principal-1{
+        display: none;
+    }
+
+    .img-principal-2{
+        display: none;
+    }
+
+    .img-principal-3{
+        width: 100%;
+        min-width: 480px;
+        max-width: 900px;
+    }
+
+    .publicacoes{
+        width: 480px;
+        justify-content: center;
+    }
+
+    .img-principal-2{
+        width: 470px;
+    }
+
+    .publicacoes-principais h3{
+        width: 475px;
+        font-size: 25px;
+    }
+
+    figure img{
+        width: 480px;
+
+    }
+
+    .publicacoes-principais h6{
+        width: 470px;
+    }
+
+    .publicacoes-complementares{
+        display: none;
+    }
+    .mais-popular{
+        width: 480px;
+    }
+
+    .apoio-img{
+        display: none;
+    }
+
+    .apoio-text{
+        margin-left: 10px;
+    }
+
+    footer{
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .news-letter{
+        display: block;
+        width: 350px;
+        height: 250px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .news-letter p{
+        width: 370px;
+    }
+
+    .inscreva{
+        margin-top: 4px;
+        text-align: center;
+    }
+  
+}
+/*-- FIM CSS3 PARA À TERCEIRA VERSÃO --*/
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+/*-- INICIO CSS3 PARA À QUARTA VERSÃO --*/
+@media only screen and (min-width: 901px) and (max-width: 1024px) {
+
+    aside{
+        display: block;
+        text-align: center;
+    }
+
+    .img-principal-1{
+        width: 100%;
+        max-width: 512px;
+    }
+
+    .img-principal-2{
+        display: NONE;
+    }
+
+    .img-principal-3{
+        width: 100%;
+        max-width: 512px;
+    }
+
+    .publicacoes-complementares{
+        display: none;
+    }
+
+    .mais-popular{
+        justify-content: center;
+    }
+
+    footer{
+        width: 100%;
+        min-width: 901px;
+        max-width: 1024px;
+        margin: 0 auto;
+    }
+
+    .news-letter{
+        display: block;
+        width: 600px;
+        height: 150px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .text-news p{
+        width: 600px;
+    }
+
+    form{
+        width: 600px;
+    }
+
+    .inscreva{
+        margin-top: 10px;
+        text-align: center;
+    }
+}
+/*-- FIM CSS3 PARA À QUARTA VERSÃO --*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-- FIM CSS3 PARA TODOS OS DISPOSITIVOS --*/
